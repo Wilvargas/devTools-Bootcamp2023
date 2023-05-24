@@ -15,7 +15,7 @@ function next_pal(num) {
   }
   
   // Ejemplo de uso
-  const numero = 1315131;
+  const numero = 188;
   const siguientePalindromo = next_pal(numero);
   console.log(siguientePalindromo);
   
