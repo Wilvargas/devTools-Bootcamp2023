@@ -11,7 +11,7 @@ function createPhoneNumber(numbers) {
   }
   
   // Ejemplo de uso:
-  const numbers = [3, 1, 6, 8, 1, 0, 8, 0, 7, 9];
+  const numbers = [3, 1, 6, 8, 1, 0, 8, 0, 7, 5];
   const phoneNumber = createPhoneNumber(numbers);
   console.log(phoneNumber);
   
